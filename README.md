@@ -49,4 +49,12 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
