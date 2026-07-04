@@ -6,6 +6,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -52,6 +53,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
