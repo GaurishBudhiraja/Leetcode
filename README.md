@@ -59,4 +59,12 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
