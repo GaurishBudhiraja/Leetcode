@@ -67,4 +67,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
