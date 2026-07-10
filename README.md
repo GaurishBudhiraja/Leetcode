@@ -49,6 +49,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -84,9 +85,14 @@ These are just leetcode submissions for organizing DSA solutions
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
