@@ -9,6 +9,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -20,6 +21,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Hash Table
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -35,6 +37,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -116,4 +119,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1291-sequential-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
