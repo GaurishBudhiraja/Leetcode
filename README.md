@@ -112,4 +112,8 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
