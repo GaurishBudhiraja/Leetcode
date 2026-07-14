@@ -12,6 +12,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -24,6 +25,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -39,6 +41,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
