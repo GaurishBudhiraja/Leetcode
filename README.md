@@ -6,6 +6,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -40,6 +41,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [1051-height-checker](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
