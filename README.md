@@ -7,6 +7,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
