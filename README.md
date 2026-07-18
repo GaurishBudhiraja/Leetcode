@@ -90,6 +90,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -133,6 +135,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
@@ -165,4 +168,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
