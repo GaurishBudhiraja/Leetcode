@@ -184,4 +184,12 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
