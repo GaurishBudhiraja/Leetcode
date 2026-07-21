@@ -34,6 +34,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
@@ -48,6 +49,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -189,6 +191,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
