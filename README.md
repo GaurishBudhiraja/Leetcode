@@ -35,6 +35,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
@@ -51,6 +52,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -196,6 +198,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
