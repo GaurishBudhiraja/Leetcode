@@ -57,6 +57,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0234-palindrome-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -206,6 +207,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
