@@ -49,6 +49,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -192,6 +193,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
