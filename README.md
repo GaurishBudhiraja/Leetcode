@@ -17,6 +17,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -239,6 +240,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
