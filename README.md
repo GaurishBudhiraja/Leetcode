@@ -59,6 +59,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -181,6 +182,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -286,6 +288,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Tree
 |  |
@@ -315,4 +318,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
