@@ -51,6 +51,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0409-longest-palindrome](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
@@ -127,6 +129,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -199,6 +202,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Counting
@@ -207,6 +211,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -275,6 +280,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0506-relative-ranks](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
