@@ -2,6 +2,9 @@ class MedianFinder {
 public:
     priority_queue<int>l;
     priority_queue<int,vector<int>,greater<int>>r;
+    MedianFinder(){
+        
+    }
     void addNum(int x) {
         l.push(x);
         r.push(l.top());
