@@ -4,7 +4,7 @@ public:
         int n=nums1.size();
         long long ans=0,sum=0;
         priority_queue<int>pq;
-        vector<pair<int,int>>p(n);
+        vector<pair<int,int>>p;
         for(int i=0;i<n;i++){
             p.push_back({nums2[i],nums1[i]});
         }
