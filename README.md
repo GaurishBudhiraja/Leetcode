@@ -40,6 +40,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +106,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -216,6 +218,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1642-furthest-building-you-can-reach](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2542-maximum-subsequence-score](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Counting
 |  |
 | ------- |
@@ -303,6 +306,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Tree
 |  |
