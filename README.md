@@ -143,6 +143,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -219,6 +221,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1705-maximum-number-of-eaten-apples](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2542-maximum-subsequence-score](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
