@@ -11,6 +11,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0134-gas-station](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
+| [0228-summary-ranges](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
