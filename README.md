@@ -22,6 +22,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [0870-advantage-shuffle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1046-last-stone-weight) |
@@ -175,6 +176,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -358,4 +361,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
