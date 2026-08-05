@@ -6,6 +6,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
@@ -51,6 +52,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
