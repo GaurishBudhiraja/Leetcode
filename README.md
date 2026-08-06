@@ -196,6 +196,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -253,6 +254,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting Sort
 |  |
 | ------- |
