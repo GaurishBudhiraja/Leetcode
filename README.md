@@ -305,6 +305,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -334,6 +335,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -372,4 +374,12 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
