@@ -17,6 +17,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -179,6 +180,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 ## Bit Manipulation
@@ -189,6 +191,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -302,6 +305,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0203-remove-linked-list-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -373,6 +377,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
@@ -382,4 +387,12 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
