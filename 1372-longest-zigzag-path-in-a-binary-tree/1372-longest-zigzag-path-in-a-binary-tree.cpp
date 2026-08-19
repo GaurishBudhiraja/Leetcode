@@ -1,21 +1,14 @@
 class Solution {
 public:
-    int longestZigZag(TreeNode* root) {
-        int res=0;
-        dfs(root,true,0,res); 
-        dfs(root,false,0,res);
-        return res;
+    int ans=INT_MIN;
+    void findLength(TreeNode*root ,int l,int r){
+        if(!root) return;
+        ans=max(ans,max(l,r));
+        findLength(root->left,r+1 ,0);
+        findLength(root->right,0,l+1);
     }
-private:
-    void dfs(TreeNode* root,bool l,int len,int &res){
-        if (!root) return;
-        res=max(res,len);
-        if(l){
-            dfs(root->left,false,len+1,res);
-            dfs(root->right,true,1,res);
-        }else{
-            dfs(root->right,true,len+1,res);
-            dfs(root->left,false,1,res);
-        }
+    int longestZigZag(TreeNode* root){
+        findLength(root,0,0);
+        return ans;
     }
 };
