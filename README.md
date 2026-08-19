@@ -196,6 +196,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
 ## Bit Manipulation
 |  |
@@ -336,6 +337,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -375,6 +377,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -424,6 +427,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -445,4 +449,5 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
