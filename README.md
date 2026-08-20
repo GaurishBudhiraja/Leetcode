@@ -10,6 +10,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
@@ -332,6 +333,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -345,6 +347,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
@@ -373,6 +376,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -387,6 +391,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
