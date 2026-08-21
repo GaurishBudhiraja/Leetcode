@@ -11,6 +11,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
@@ -193,6 +194,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
