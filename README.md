@@ -194,6 +194,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -211,6 +212,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -333,6 +335,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -350,6 +353,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -378,6 +382,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
