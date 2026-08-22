@@ -10,6 +10,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0134-gas-station) |
@@ -63,6 +64,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -340,6 +342,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0098-validate-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -387,6 +390,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0098-validate-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -402,6 +406,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
