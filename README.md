@@ -160,6 +160,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0409-longest-palindrome](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
@@ -235,6 +236,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
@@ -347,6 +349,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -397,6 +400,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -454,6 +458,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -466,6 +471,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
