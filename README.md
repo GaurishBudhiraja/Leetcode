@@ -467,6 +467,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
@@ -481,6 +482,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -510,4 +512,9 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
