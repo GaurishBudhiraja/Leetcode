@@ -480,6 +480,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -496,6 +497,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -530,4 +532,5 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
