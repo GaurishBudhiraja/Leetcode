@@ -62,6 +62,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -92,6 +93,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -154,6 +156,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -220,6 +223,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0338-counting-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -494,6 +498,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
 | ------- |
