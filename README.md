@@ -495,6 +495,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0110-balanced-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -516,6 +517,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -559,7 +561,16 @@ These are just leetcode submissions for organizing DSA solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
