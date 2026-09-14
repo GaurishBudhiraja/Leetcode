@@ -246,6 +246,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
@@ -468,6 +469,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
