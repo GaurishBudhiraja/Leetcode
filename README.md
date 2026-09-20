@@ -183,6 +183,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -202,6 +203,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
