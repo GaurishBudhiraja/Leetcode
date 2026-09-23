@@ -47,6 +47,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -94,6 +95,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -158,6 +160,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -219,6 +222,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
@@ -343,6 +347,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
