@@ -52,6 +52,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1705-maximum-number-of-eaten-apples](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -200,6 +202,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
