@@ -201,6 +201,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0649-dota2-senate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
+| [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -215,6 +216,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -596,4 +598,8 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0207-course-schedule) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
