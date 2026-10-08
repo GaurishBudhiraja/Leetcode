@@ -203,6 +203,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0767-reorganize-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -220,6 +221,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
@@ -606,4 +608,5 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
