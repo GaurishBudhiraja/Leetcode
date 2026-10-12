@@ -120,6 +120,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0061-rotate-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -135,6 +136,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -381,6 +383,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0092-reverse-linked-list-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -481,6 +484,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0023-merge-k-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -511,6 +515,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 ## Game Theory
 |  |
 | ------- |
