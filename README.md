@@ -8,6 +8,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
@@ -184,6 +185,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0733-flood-fill) |
@@ -280,6 +282,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
