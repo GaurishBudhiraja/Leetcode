@@ -7,6 +7,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0057-insert-interval) |
@@ -122,6 +123,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
