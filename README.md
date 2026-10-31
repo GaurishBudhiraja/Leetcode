@@ -7,6 +7,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0055-jump-game) |
@@ -125,6 +126,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0061-rotate-list) |
@@ -146,6 +148,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
