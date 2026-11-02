@@ -28,6 +28,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0506-relative-ranks) |
@@ -161,6 +162,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -297,6 +299,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0096-unique-binary-search-trees](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0836-rectangle-overlap) |
