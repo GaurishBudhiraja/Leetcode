@@ -24,6 +24,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -100,6 +101,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0142-linked-list-cycle-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +159,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0056-merge-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -367,6 +370,7 @@ These are just leetcode submissions for organizing DSA solutions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -649,4 +653,8 @@ These are just leetcode submissions for organizing DSA solutions
 | [0856-score-of-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
