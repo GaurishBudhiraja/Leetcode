@@ -53,6 +53,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1207-unique-number-of-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
@@ -148,6 +149,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0295-find-median-from-data-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0870-advantage-shuffle](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -180,6 +182,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1051-height-checker](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -268,6 +271,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0374-guess-number-higher-or-lower](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
