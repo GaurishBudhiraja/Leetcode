@@ -65,6 +65,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -503,6 +504,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1705-maximum-number-of-eaten-apples) |
+| [1882-process-tasks-using-servers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
