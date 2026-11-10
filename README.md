@@ -92,6 +92,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3693-climbing-stairs-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -307,6 +308,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
