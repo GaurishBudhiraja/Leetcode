@@ -86,6 +86,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
