@@ -237,6 +237,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -263,6 +264,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
