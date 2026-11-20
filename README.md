@@ -87,6 +87,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -205,6 +206,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -323,6 +325,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
