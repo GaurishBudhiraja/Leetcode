@@ -271,6 +271,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2390-removing-stars-from-a-string) |
