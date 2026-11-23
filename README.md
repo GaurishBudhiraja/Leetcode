@@ -54,6 +54,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1260-shift-2d-grid](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -217,6 +218,7 @@ These are just leetcode submissions for organizing DSA solutions
 | ------- |
 | [0724-find-pivot-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -351,6 +353,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0836-rectangle-overlap](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -379,6 +382,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -393,6 +397,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/GaurishBudhiraja/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
