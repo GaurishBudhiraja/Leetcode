@@ -93,6 +93,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -361,6 +362,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -439,6 +441,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1291-sequential-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
@@ -449,6 +452,7 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -461,6 +465,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Monotonic Stack
