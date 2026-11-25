@@ -110,6 +110,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3876-construct-uniform-parity-array-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -308,6 +310,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaurishBudhiraja/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -740,4 +743,16 @@ These are just leetcode submissions for organizing DSA solutions
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
