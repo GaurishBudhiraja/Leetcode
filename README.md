@@ -255,6 +255,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2462-total-cost-to-hire-k-workers](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -365,6 +366,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2520-count-the-digits-that-divide-a-number](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
