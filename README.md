@@ -111,6 +111,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3903-smallest-stable-index-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +340,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -429,6 +431,7 @@ These are just leetcode submissions for organizing DSA solutions
 | [2567-minimum-score-by-changing-two-elements](https://github.com/GaurishBudhiraja/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/GaurishBudhiraja/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting
 |  |
 | ------- |
